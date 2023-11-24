@@ -1,6 +1,8 @@
 # sl_app
 
 A new Flutter project.
+- Descargar los modelos desde Google drive, cuando termine de subir pongo el enlace XD
+  
 
 ## Getting Started
 
