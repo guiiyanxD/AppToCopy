@@ -1,7 +1,7 @@
-# sl_app
+# SignaBox
 
 A new Flutter project.
-- Descargar los modelos desde Google drive, cuando termine de subir pongo el enlace XD
+- [Descargar los modelos desde Google drive](https://drive.google.com/drive/folders/1VNvV748DiQkHkgpBg_7XlU2gYSsyspls?usp=drive_link)
   
 
 ## Getting Started
